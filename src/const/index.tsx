@@ -2,8 +2,8 @@ export { default as routes } from "./routes";
 export { default as menuListUser } from "./menu-list-user";
 export { default as menuListAdmin } from "./menu-list-admin";
 
-export const SERVER_URL_API = "https://apps2.bimbeltuntas.com/server/api";
-export const SERVER_URL = "https://apps2.bimbeltuntas.com/server/";
+export const SERVER_URL_API = "https://apps.bimbeltuntas.com/server/api";
+export const SERVER_URL = "https://apps.bimbeltuntas.com/server/";
 export const FRONTEND_URL = "https://apps2.bimbeltuntas.com";
 
 // export const SERVER_URL_API = 'http://localhost:8001/api';
